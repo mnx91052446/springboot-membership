@@ -18,6 +18,7 @@ import java.util.Collections;
 //自動生成無參數的建構子
 @NoArgsConstructor
 /*實作UserDetails的方法，屬於security*/
+/**/
 @Entity
 public class AppUser implements UserDetails {
 
